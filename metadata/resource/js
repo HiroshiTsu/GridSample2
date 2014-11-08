@@ -1,0 +1,15 @@
+{
+    "type": "jsoverrideresource",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "js",
+        "includeInBundle": true,
+        "url": "app/override/data/Model.js"
+    },
+    "name": "js",
+    "designerId": "466a046a-4769-4e1d-a96c-1652c0de9b2e"
+}

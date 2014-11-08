@@ -1,0 +1,145 @@
+{
+    "type": "Ext.data.Model",
+    "reference": {
+        "name": "items",
+        "type": "array"
+    },
+    "codeClass": null,
+    "userConfig": {
+        "designer|userClassName": "Sales"
+    },
+    "name": "MyModel",
+    "designerId": "52af350d-9e05-48b5-92ee-2ce4ab0b5749",
+    "cn": [
+        {
+            "type": "Ext.data.field.String",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "branch"
+            },
+            "name": "MyString",
+            "designerId": "ee2b1d6c-efa6-4544-b50d-5246e2defa0b"
+        },
+        {
+            "type": "Ext.data.field.Integer",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "yx1"
+            },
+            "name": "MyInteger1",
+            "designerId": "2711532d-1b36-4868-8e8d-53701c79c97b"
+        },
+        {
+            "type": "Ext.data.field.Integer",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "yx2"
+            },
+            "name": "MyInteger2",
+            "designerId": "f088b3c6-e76c-4878-b87f-63c514e5301b"
+        },
+        {
+            "type": "Ext.data.field.Integer",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "yx3"
+            },
+            "name": "MyInteger3",
+            "designerId": "42852cf1-0705-406d-bc4e-a7d8de02a492"
+        },
+        {
+            "type": "Ext.data.field.Integer",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "yx4"
+            },
+            "name": "MyInteger4",
+            "designerId": "e7c38e95-230f-4e1f-9f8f-1c450aa85f0e"
+        },
+        {
+            "type": "Ext.data.field.Integer",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "yx5"
+            },
+            "name": "MyInteger5",
+            "designerId": "b3394078-bcbc-4f7c-a768-eeee2863cb07"
+        },
+        {
+            "type": "Ext.data.field.Integer",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "yx6"
+            },
+            "name": "MyInteger6",
+            "designerId": "d142f0ad-e74f-49a5-b46c-c476dcaccbd5"
+        },
+        {
+            "type": "Ext.data.field.Integer",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "yx7"
+            },
+            "name": "MyInteger7",
+            "designerId": "ae6315c1-8cae-45af-ab81-91df80e111a6"
+        },
+        {
+            "type": "Ext.data.field.Integer",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "yx8"
+            },
+            "name": "MyInteger8",
+            "designerId": "d62db4d7-65a8-4154-8359-f9d266aa3aef"
+        },
+        {
+            "type": "Ext.data.field.Integer",
+            "reference": {
+                "name": "fields",
+                "type": "array"
+            },
+            "codeClass": null,
+            "userConfig": {
+                "name": "yx9"
+            },
+            "name": "MyInteger9",
+            "designerId": "c058f928-ad23-4cdb-b862-332139b74196"
+        }
+    ]
+}
