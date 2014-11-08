@@ -88,7 +88,30 @@
                         "text": "H×１年"
                     },
                     "name": "MyNumberColumn",
-                    "designerId": "1f74ae12-258f-45d3-bca2-585e397e76ef"
+                    "designerId": "1f74ae12-258f-45d3-bca2-585e397e76ef",
+                    "cn": [
+                        {
+                            "type": "fixedfunction",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|params": [
+                                    "val",
+                                    "params",
+                                    "data"
+                                ],
+                                "fn": "summaryRenderer",
+                                "implHandler": [
+                                    "return Ext.util.Format.number(val,'0,000');"
+                                ]
+                            },
+                            "name": "summaryRenderer",
+                            "designerId": "ee72a9dd-d17c-487d-a04b-1a784efb4418"
+                        }
+                    ]
                 },
                 {
                     "type": "Ext.grid.column.Number",
@@ -105,7 +128,30 @@
                         "text": "H×２年"
                     },
                     "name": "MyNumberColumn1",
-                    "designerId": "7246dc1d-54ee-4fdf-8f95-03e06b6fd89a"
+                    "designerId": "7246dc1d-54ee-4fdf-8f95-03e06b6fd89a",
+                    "cn": [
+                        {
+                            "type": "fixedfunction",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|params": [
+                                    "val",
+                                    "params",
+                                    "data"
+                                ],
+                                "fn": "summaryRenderer",
+                                "implHandler": [
+                                    "    return Ext.util.Format.number(val,'0,000');"
+                                ]
+                            },
+                            "name": "summaryRenderer",
+                            "designerId": "8a264f60-cf88-4ae4-8d1e-94d19aa03ab8"
+                        }
+                    ]
                 },
                 {
                     "type": "Ext.grid.column.Number",
@@ -122,7 +168,30 @@
                         "text": "H×３年"
                     },
                     "name": "MyNumberColumn2",
-                    "designerId": "deb2c87d-5bca-49cc-9312-ce01e8a24fec"
+                    "designerId": "deb2c87d-5bca-49cc-9312-ce01e8a24fec",
+                    "cn": [
+                        {
+                            "type": "fixedfunction",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|params": [
+                                    "val",
+                                    "params",
+                                    "data"
+                                ],
+                                "fn": "summaryRenderer",
+                                "implHandler": [
+                                    "    return Ext.util.Format.number(val,'0,000');"
+                                ]
+                            },
+                            "name": "summaryRenderer",
+                            "designerId": "5afc0eda-e523-4fab-b3ce-e07e83afa3c4"
+                        }
+                    ]
                 },
                 {
                     "type": "Ext.grid.column.Number",
@@ -139,7 +208,30 @@
                         "text": "H×４年"
                     },
                     "name": "MyNumberColumn4",
-                    "designerId": "58bcab9b-b70c-499c-86a1-83460dcd0284"
+                    "designerId": "58bcab9b-b70c-499c-86a1-83460dcd0284",
+                    "cn": [
+                        {
+                            "type": "fixedfunction",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|params": [
+                                    "val",
+                                    "params",
+                                    "data"
+                                ],
+                                "fn": "summaryRenderer",
+                                "implHandler": [
+                                    "    return Ext.util.Format.number(val,'0,000');"
+                                ]
+                            },
+                            "name": "summaryRenderer",
+                            "designerId": "90d10599-d77d-41b4-93d9-b909559c7f55"
+                        }
+                    ]
                 },
                 {
                     "type": "Ext.grid.column.Number",
@@ -156,7 +248,30 @@
                         "text": "H×５年"
                     },
                     "name": "MyNumberColumn3",
-                    "designerId": "a699161d-127f-412c-b850-a4db1505285a"
+                    "designerId": "a699161d-127f-412c-b850-a4db1505285a",
+                    "cn": [
+                        {
+                            "type": "fixedfunction",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|params": [
+                                    "val",
+                                    "params",
+                                    "data"
+                                ],
+                                "fn": "summaryRenderer",
+                                "implHandler": [
+                                    "    return Ext.util.Format.number(val,'0,000');"
+                                ]
+                            },
+                            "name": "summaryRenderer",
+                            "designerId": "19142129-f07b-406e-959d-c7a9abaa379f"
+                        }
+                    ]
                 },
                 {
                     "type": "Ext.grid.column.Number",
@@ -173,7 +288,30 @@
                         "text": "H×６年"
                     },
                     "name": "MyNumberColumn5",
-                    "designerId": "452e3083-ee3b-4ecc-bf14-6df0f8bc18f0"
+                    "designerId": "452e3083-ee3b-4ecc-bf14-6df0f8bc18f0",
+                    "cn": [
+                        {
+                            "type": "fixedfunction",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|params": [
+                                    "val",
+                                    "params",
+                                    "data"
+                                ],
+                                "fn": "summaryRenderer",
+                                "implHandler": [
+                                    "    return Ext.util.Format.number(val,'0,000');"
+                                ]
+                            },
+                            "name": "summaryRenderer",
+                            "designerId": "4a544e16-7f97-4b95-87cb-67390d1aca90"
+                        }
+                    ]
                 },
                 {
                     "type": "Ext.grid.column.Number",
@@ -190,7 +328,30 @@
                         "text": "H×７年"
                     },
                     "name": "MyNumberColumn6",
-                    "designerId": "3b0110e3-aa8a-41f8-b1ab-d581ec01bb51"
+                    "designerId": "3b0110e3-aa8a-41f8-b1ab-d581ec01bb51",
+                    "cn": [
+                        {
+                            "type": "fixedfunction",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|params": [
+                                    "val",
+                                    "params",
+                                    "data"
+                                ],
+                                "fn": "summaryRenderer",
+                                "implHandler": [
+                                    "    return Ext.util.Format.number(val,'0,000');"
+                                ]
+                            },
+                            "name": "summaryRenderer",
+                            "designerId": "d9f041b7-20c7-4248-80cf-ce2d5218f29a"
+                        }
+                    ]
                 },
                 {
                     "type": "Ext.grid.column.Number",
@@ -207,7 +368,30 @@
                         "text": "H×８年"
                     },
                     "name": "MyNumberColumn8",
-                    "designerId": "b32d8571-5524-44bb-96d6-27ff489e99ad"
+                    "designerId": "b32d8571-5524-44bb-96d6-27ff489e99ad",
+                    "cn": [
+                        {
+                            "type": "fixedfunction",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|params": [
+                                    "val",
+                                    "params",
+                                    "data"
+                                ],
+                                "fn": "summaryRenderer",
+                                "implHandler": [
+                                    "    return Ext.util.Format.number(val,'0,000');"
+                                ]
+                            },
+                            "name": "summaryRenderer",
+                            "designerId": "d370280f-e0c6-42f2-94b5-d24bc49e4873"
+                        }
+                    ]
                 },
                 {
                     "type": "Ext.grid.column.Number",
@@ -224,7 +408,30 @@
                         "text": "H×９年"
                     },
                     "name": "MyNumberColumn7",
-                    "designerId": "3e8f52ed-fa56-4424-b96f-a1297b78d662"
+                    "designerId": "3e8f52ed-fa56-4424-b96f-a1297b78d662",
+                    "cn": [
+                        {
+                            "type": "fixedfunction",
+                            "reference": {
+                                "name": "items",
+                                "type": "array"
+                            },
+                            "codeClass": null,
+                            "userConfig": {
+                                "designer|params": [
+                                    "val",
+                                    "params",
+                                    "data"
+                                ],
+                                "fn": "summaryRenderer",
+                                "implHandler": [
+                                    "    return Ext.util.Format.number(val,'0,000');"
+                                ]
+                            },
+                            "name": "summaryRenderer",
+                            "designerId": "0b8684da-1253-468b-aaae-20cc89e4aba5"
+                        }
+                    ]
                 },
                 {
                     "type": "Ext.grid.View",

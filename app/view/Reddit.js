@@ -51,6 +51,9 @@ Ext.define('GridSample2.view.Reddit', {
                 },
                 {
                     xtype: 'numbercolumn',
+                    summaryRenderer: function(val, params, data) {
+                        return Ext.util.Format.number(val,'0,000');
+                    },
                     summaryType: 'sum',
                     align: 'right',
                     dataIndex: 'yx1',
@@ -60,6 +63,9 @@ Ext.define('GridSample2.view.Reddit', {
                 },
                 {
                     xtype: 'numbercolumn',
+                    summaryRenderer: function(val, params, data) {
+                        return Ext.util.Format.number(val,'0,000');
+                    },
                     summaryType: 'sum',
                     align: 'right',
                     dataIndex: 'yx2',
@@ -68,6 +74,9 @@ Ext.define('GridSample2.view.Reddit', {
                 },
                 {
                     xtype: 'numbercolumn',
+                    summaryRenderer: function(val, params, data) {
+                        return Ext.util.Format.number(val,'0,000');
+                    },
                     summaryType: 'sum',
                     align: 'right',
                     dataIndex: 'yx3',
@@ -76,6 +85,9 @@ Ext.define('GridSample2.view.Reddit', {
                 },
                 {
                     xtype: 'numbercolumn',
+                    summaryRenderer: function(val, params, data) {
+                        return Ext.util.Format.number(val,'0,000');
+                    },
                     summaryType: 'sum',
                     align: 'right',
                     dataIndex: 'yx4',
@@ -84,6 +96,9 @@ Ext.define('GridSample2.view.Reddit', {
                 },
                 {
                     xtype: 'numbercolumn',
+                    summaryRenderer: function(val, params, data) {
+                        return Ext.util.Format.number(val,'0,000');
+                    },
                     summaryType: 'sum',
                     align: 'right',
                     dataIndex: 'yx5',
@@ -92,6 +107,9 @@ Ext.define('GridSample2.view.Reddit', {
                 },
                 {
                     xtype: 'numbercolumn',
+                    summaryRenderer: function(val, params, data) {
+                        return Ext.util.Format.number(val,'0,000');
+                    },
                     summaryType: 'sum',
                     align: 'right',
                     dataIndex: 'yx6',
@@ -100,6 +118,9 @@ Ext.define('GridSample2.view.Reddit', {
                 },
                 {
                     xtype: 'numbercolumn',
+                    summaryRenderer: function(val, params, data) {
+                        return Ext.util.Format.number(val,'0,000');
+                    },
                     summaryType: 'sum',
                     align: 'right',
                     dataIndex: 'yx7',
@@ -108,6 +129,9 @@ Ext.define('GridSample2.view.Reddit', {
                 },
                 {
                     xtype: 'numbercolumn',
+                    summaryRenderer: function(val, params, data) {
+                        return Ext.util.Format.number(val,'0,000');
+                    },
                     summaryType: 'sum',
                     align: 'right',
                     dataIndex: 'yx8',
@@ -116,6 +140,9 @@ Ext.define('GridSample2.view.Reddit', {
                 },
                 {
                     xtype: 'numbercolumn',
+                    summaryRenderer: function(val, params, data) {
+                        return Ext.util.Format.number(val,'0,000');
+                    },
                     summaryType: 'sum',
                     align: 'right',
                     dataIndex: 'yx9',

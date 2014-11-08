@@ -7481,6 +7481,7 @@
  * @private
  * Flag to ensure GridField rules only get set once
  */
+/* including package sencha-charts */
 /* including package ext-theme-base */
 /*
  * Although this file only contains a variable, all vars are included by default
